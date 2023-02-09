@@ -1,0 +1,50 @@
+body {background-image: url('view3.jpg') ;
+text-align:center;
+background-size: 500px;
+}
+h1 {
+font-family: times new roman;
+color:orange;
+border:2px solid aqua;
+border-radius:10px;
+text-shadow:2px 2px aqua;
+}
+
+
+footer {
+background-color:transparent;
+border:2px solid aqua;
+border-radius:10px;
+}
+
+#button1 {background:rgb(64,187,164);
+border-radius:10px;
+border-color:aqua;
+color:aqua;
+font-family:times new roman;
+height:30px;
+width:100px;
+}
+#button2 {background:rgb(64,187,164);
+border-radius:10px;
+border-color:aqua;
+color:aqua;
+font-family:times new roman;
+width:100px;
+height:30px;
+}
+
+h2 {color:aqua;
+font-family:times new roman;
+text-shadow:2px 2px navy;
+}
+
+header {background-color:transparent;
+border:2px solid aqua;
+border-radius:10px;
+height:200px;
+}
+
+#para1 {color:aqua;
+font-family:times new roman;
+}

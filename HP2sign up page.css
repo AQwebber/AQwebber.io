@@ -1,0 +1,62 @@
+body {background:teal;
+font-family:times new roman;
+color: aqua;
+background-image: url('view.jpg');
+background-size: 500px;
+}
+
+h1 {font-family: Times new roman;
+text-shadow: 2px 2px mediumaquamarine;
+  }
+
+#input2 {background: none;
+opacity:60%;
+border-bottom: 2px solid aqua;
+border-top: transparent;
+border-left: transparent;
+border-right: transparent;
+height:20px;
+border-radius: 5px;
+outline:none;
+color:aqua;
+font-family: times new roman;
+}
+
+#input1 {border-bottom: 2px solid aqua;
+background: none;
+opacity:60%;
+height:20px;
+border-left: transparent;
+border-top: transparent;
+border-right: transparent;
+border-radius:5px;
+outline:none;
+color:aqua;
+font-family: times new roman;
+}
+
+#div1 {border:2px solid mediumaquamarine;
+height:250px;
+background-size: 250px, 250px;
+}
+
+footer {background-image: url('Avatar1.jpg');
+  height:200px;
+  background-size:200px;
+  border:2px solid mediumaquamarine;
+}
+
+#button1 {background: transparent;
+border: 2px solid aqua ;
+border-radius: 5px;
+color:aqua;
+font-family: times new roman;
+width:100px;
+height:30px;
+}
+
+#div3 {background-color: aquamarine;
+  height:30px;
+  font-size: 30px;
+}
+
