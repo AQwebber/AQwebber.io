@@ -1,0 +1,53 @@
+body {background:teal;
+font-family: times new roman;
+color:aqua;
+background-image: url('mount.jpg');
+background-size: 500px;
+} 
+
+#input1 {outline:none;
+background: none;
+opacity:60%;
+border-left:none;
+border-right:none;
+border-top:none;
+border-bottom: 2px solid aqua;
+border-radius:5px;
+height:20px;
+color:aqua;
+font-family:times new roman;
+text-shadow: 5px 5px 5px aqua;
+}
+
+#input2 {outline:none;
+background: none ;
+opacity:60%;
+border-left: none;
+border-right:none;
+border-top:none;
+border-bottom:2px solid aqua;
+height:20px;
+border-radius:5px;
+color:aqua;
+font-family:times new roman;
+text-shadow: 5px 5px 5px aqua;
+}
+
+#div1 {
+background-size:150px, 250px;
+height:250px;
+}
+
+#but1 {background:none;
+border-bottom:2px solid aqua;
+border-left:none;
+border-top: 2px solid aqua;
+border-right:none;
+outline:none;
+height:20px;
+width:50px;
+border-radius:5px;
+font-family:times new roman;
+color: aqua ;
+text-shadow: 2px 4px 4px mediumaquamarine;
+}
